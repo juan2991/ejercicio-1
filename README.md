@@ -28,18 +28,9 @@ Me destaco en la construcción de soluciones basadas en datos, optimización de 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="70" height="70"/>
 </p>
 
----
+  
 
-## 📈 Sobre mí
-- 🎓 Analista de Datos apasionado por transformar información en conocimiento.  
-- 📊 Experiencia en manejo de bases de datos SQL y NoSQL.  
-- ☁️ Implementación de soluciones en la nube con **Azure**.  
-- 📉 Creación de dashboards dinámicos en **Power BI** y **Excel**.  
-- ⚡ Manejo de frameworks y herramientas de datos como **Apache**.  
 
-</p>
-
----
 
 
 
